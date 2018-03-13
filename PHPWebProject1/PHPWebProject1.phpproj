@@ -17,5 +17,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="index.php" />
+    <Compile Include="connect.php" />
   </ItemGroup>
 </Project>
