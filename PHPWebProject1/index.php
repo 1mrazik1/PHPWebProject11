@@ -16,7 +16,7 @@
         <?php
     //phpinfo();
     //echo "ahoj dusan";
-    include 'Connect.php';
+    //include 'Connect.php';
     //$sql = "INSERT INTO myguests (firstname, lastname, email)
     //VALUES ('dusan', 'mraz', '1mrazik1@gmail.com')";
 
